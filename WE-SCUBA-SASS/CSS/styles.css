@@ -4,7 +4,7 @@
 .footer__article--ads, .footer__article--logos {
   display: flex;
   border-color: #ffffff;
-  border-bottom-color: rgb(0, 195, 237);
+  border-bottom-color: white;
   border-style: solid;
   justify-content: space-between;
   align-items: center;
