@@ -273,7 +273,7 @@
   border-style: solid;
   border-color: rgb(0, 195, 237);
   border-radius: 1.7em;
-  border-width: 0;
+  border-width: 0.1rem;
 }
 
 .main_section--bannercourses {
